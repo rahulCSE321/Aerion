@@ -30,7 +30,7 @@ export function HeroSection() {
 
           {/* Headline */}
           <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-medium text-white mb-6 animate-fade-in-up leading-tight">
-            Aerion Excellence.
+            Aerion Gateway.
             <br />
             <span className="text-blue-300">Work Smarter. Effort Less.</span>
           </h1>
